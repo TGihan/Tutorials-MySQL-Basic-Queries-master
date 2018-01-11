@@ -1,0 +1,1 @@
+update project set budget=400 where budget=500

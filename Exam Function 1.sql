@@ -1,0 +1,1 @@
+select * from project  where budget < dbo.compute_cost(50)

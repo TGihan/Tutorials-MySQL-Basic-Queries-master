@@ -1,0 +1,1 @@
+SELECT * FROM Employee_Test WHERE Emp_sal <> 1300 

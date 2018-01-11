@@ -1,0 +1,3 @@
+SELECT *
+FROM Employee_Test
+WHERE Emp_sal BETWEEN 1100 AND 1500;
